@@ -1,0 +1,51 @@
+Base utilizada:
+
+https://dados.gov.br/dataset/aeronaves-registradas-no-registro-aeronautico-brasileiro-rab
+
+
+
+Questões:
+
+1- Quais modelos de aeronaves foram registradas com a data de fabricação no período de 2018-2020? (Wythynny)
+
+2- Quais as 5 principais aeronaves com maior número de passageiros? (Wythynny)
+
+3- Indique os principais motivos de cancelamento da matrícula de aeronaves. (gráfico pizza) (Wythynny)
+
+4- Quantas aeronaves foram registradas em cada ano no período de 2010 a 2020? (gráfico de linha) (Wythynny)
+
+5- Quantas Marcas (conjunto alfanumérico) de aeronaves existem no total no Brasil? (Wythynny)
+
+6- Qual a quantidade de nomes de proprietários de aeronaves existentes no Brasil? (Israel)
+
+7- Aponte os operadores e o número de aeronaves registradas; (Israel)
+
+8- Quais os estados do Brasil que residem a maior quantidade de operadores de aeronave? (Israel)
+
+9- Indicar os estados que possuem aeronaves com maior capacidade máxima de passageiros (Israel)
+
+10- Qual a quantidade de registros de aeronaves privadas, em que os proprietários vivem em São Paulo e no Rio de Janeiro no período de 2010 – 2022? (Victor)
+
+11- Quais os estados com maiores porcentagens de aeronaves do tipo de transporte de passageiros? (Victor)
+
+12- Quais os estados e as quantidades de aeronaves privadas? (Victor)
+
+13- Qual a porcentagem de classificação de aeronaves por suas devidas categorias no Brasil? (Victor)
+
+14- Qual o total de “números de série” de aeronaves atribuídos de fábrica existem em cada estado? (Victor)
+
+15- Quais fabricantes possuem a maior quantidade de aeronaves fabricadas e registradas com categoria: transporte de passageiros? (Victor)
+
+
+
+Perguntas Usadas:
+
+1- Indique os principais motivos de cancelamento da matrícula de aeronaves. <gráfico pizza>
+
+2- Quantas aeronaves foram registradas em cada ano no período de 2010 a 2020? <gráfico de linha>
+
+3- Quais os estados do Brasil que residem a maior quantidade de operadores de aeronaves? <gráfico barra>
+
+4- Qual a quantidade de registros de aeronaves privadas, em que os proprietários vivem em São Paulo e no Rio de Janeiro no período de 2010 – 2022? <gráfico de linha - duas linhas>
+
+5- Quais fabricantes possuem a maior quantidade de aeronaves fabricadas e registradas com categoria: transporte de passageiros? <gráfico barra>
